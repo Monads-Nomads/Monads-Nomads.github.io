@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'First Blog Post'
+title:  'The Beginning'
 date:   2025-02-12
-categories: coding
+tags: doodle
 ---
-The beginning, take 2
+The beginning, a blog of my thoughts.
