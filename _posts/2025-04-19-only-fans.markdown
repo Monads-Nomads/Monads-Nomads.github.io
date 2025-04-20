@@ -6,15 +6,11 @@ tags: society
 comments: true
 ---
 
-A transcript to understand OnlyFans' legal position.
+The following is based on a transcript of chat with ChatGPT to understand OnlyFans' legal position, pretty interesting stuff.
 
 💬: is OnlyFans mostly for edgy content like porn? 
 
 🤖:[ChatGPT4.1]
-
----
-
-**Answer:**
 
 OnlyFans is *best known* for adult or sexually explicit content because many creators use the platform to share such material and earn money directly from fans. This aspect of the site receives the most media and cultural attention. 
 
@@ -31,15 +27,6 @@ If you’d like statistics or want to know about alternative platforms, let me k
 💬:well, there's always a market for porn, I wonder why this is the only platform for that
 
 🤖:[ChatGPT4.1]
-    - It accepts and allows adult content, filling the gap left as other mainstream platforms banned or restricted such material.
-    - Its business model (paywall/subscription for creators) aligns perfectly with direct-to-fan pornography sales.
-    - User-friendly platform and payment infrastructure.
-    - Timing: Launched and grew quickly as other options (Tumblr, Patreon for NSFW content) closed.
-    - Societal shifts during COVID-19 made more creators seek online income, accelerating adoption.
-
----
-
-**Answer:**
 
 You're absolutely right—there’s always been a strong market for pornography online. OnlyFans isn’t the *only* platform that serves this market, but it became the *most prominent* because:
 
@@ -56,18 +43,6 @@ If you want examples of competitors or want to know about how payment and legali
 💬: what's wrong with porn, seems free speech, this can't be illegal? 
 
 🤖:[ChatGPT4.1]
-   - Is pornography itself illegal?
-   - What legal and regulatory framework governs it?
-   - Why do so many platforms ban or restrict porn?
-   - What’s the tension between free speech and regulation in this area?
-    - Payment processors (Visa, Mastercard, banks) refuse to work with adult content due to legal risk, chargebacks, regulation, or moral codes.
-    - Advertisers also refuse association, making monetization hard.
-    - Legal risk: Enforcement, verification (especially minors or trafficking), data risk, and litigation are all heightened.
-    - App stores (Apple, Google) ban explicit content, cutting off key distribution channels.
-
----
-
-**Answer:**
 
 Pornography (between consenting adults) is *not* illegal in most Western countries; it’s generally protected as free speech, with important exceptions:
 
@@ -81,17 +56,9 @@ So, porn isn’t generally illegal, and it *is* a free speech issue, but busines
 
 If you want more on “obscenity” laws, or how financial companies control access to adult content, let me know!
 
+💬: so why's OF OK with payment processors
 
-💬: so why's OF ok with payment processors
-
-🤖:[ChatGPT4.1]
-   1. Preventing illegal material (child porn, non-consensual images, trafficking)  
-   2. Managing financial and fraud risk (chargebacks, money laundering)  
-   3. Reputation and public perception/activism
-
----
-
-**Answer:**
+🤖:[ChatGPT4.1]   
 
 OnlyFans is able to work with major payment processors (like Visa and Mastercard) because:
 
@@ -109,13 +76,6 @@ Let me know if you’re interested in how this compares to other platforms, or m
 💬: what's legal definition of obscene
 
 🤖:[ChatGPT4.1]
-   1. Whether the average person, applying contemporary community standards, would find that the work, taken as a whole, appeals to the prurient interest,
-   2. Whether the work depicts or describes, in a patently offensive way, sexual conduct specifically defined by applicable state law,
-   3. Whether the work, taken as a whole, lacks serious literary, artistic, political, or scientific value.
-
----
-
-**Answer:**
 
 ### U.S. Legal Definition of "Obscene" (The Miller Test)
 
@@ -135,95 +95,87 @@ If all three points are met, the material is legally "obscene"—and *not* prote
 If you want the definition in another country or examples of what’s *actually* counted as obscene in court, let me know!
 
 
-💬: hmm, how can porn pass those three tests though
+💬: hmm, how can porn pass those three tests though, like prurient interest, offensive's in the eyes of beholders and not sure it can be viewed as having literary, artistic etc. values.
 
 🤖:[ChatGPT4.1]
- - **Prurient interest**: Most porn arguably appeals to sexual desire, so it often meets this point.
- - **Patently offensive**: This means “beyond the bounds of what society tolerates.” Mainstream, consensual, and non-violent porn is often *not* considered "patently offensive" by contemporary juries, especially in urban areas. The threshold is quite high.
- - **Serious value**: Courts have interpreted "serious literary, artistic, political, or scientific value" very broadly. In practice, almost any claim of value (including minimal artistic or even educational intent) can prevent a finding of obscenity.
 
----
+You’re right—the Miller test is difficult to apply, and most pornography *does* appeal to prurient interests, might seem offensive to some, and rarely claims much “serious value.”
 
-**Answer:**
+However, for something to be legally obscene in the United States, **all three parts of the Miller test must be satisfied, at the *same time*.** Here’s how typical porn escapes this label:
 
-It might seem surprising, but **most pornography in the U.S. is *not* legally "obscene"**, even if it is sexually explicit. Here’s how porn generally passes the Miller Test:
+- **Community standards vary:** What’s “patently offensive” in one place may be normal in another, making courts hesitant to set a broad standard for what’s “offensive enough.” Juries and judges are often reluctant to call adult-consensual porn deeply offensive by today’s major-city norms.
+- **Serious value is interpreted broadly:** Courts can—and often do—find any “artistic,” “literary,” or “scientific” element in even basic porn (for example: arguments that it explores human sexuality, educates, or has some cultural intent). In practice, unless the material is extremely graphic *and* totally lacking any redeeming feature, it does not meet this test.
+- **Actual obscenity prosecutions are rare:** Most classic porn (magazines, websites, videos involving consenting adults) isn’t prosecuted, and adult pornography is widely distributed with limited legal trouble.
 
-1. **Prurient Interest:** Almost all porn *does* appeal to sexual interest, so it often meets this step.
-2. **Patently Offensive:** Here, the standard is stricter—“patently offensive” according to local, contemporary standards. Mainstream adult porn, featuring consensual and non-degrading acts, may *not* cross this line for most juries and courts, especially as social standards change.
-3. **Serious Value:** Courts have interpreted this part generously. A work can avoid being labeled obscene if *any* reasonable person might find some artistic, literary, political, or scientific value, however minor. Many works, even explicit ones, can claim some value (artistic photography, sexual health, etc.).
+So: **Legal porn is not considered “obscene”—only the most extreme, graphic, and intentionally offensive material (with zero redeeming value) ever gets that label in American courts.** The test is meant to safeguard free speech, erring on the side of allowing even “tasteless” material unless it’s egregious.
 
-### In Practice
-- **Most obscenity prosecutions today target extremely graphic, violent, or exploitative material, not regular porn.**
-- **Internet “community standards” are broader**, so it's harder to call something universally offensive.
-- **Proving “obscene” in court is hard**, especially when a minimal artistic or educational defense is presented.
-
-**Summary:**  
-*Most porn isn’t considered legally obscene under the Miller Test, so it’s legal and protected as free speech.*
-
-Would you like historical examples, or to know about the types of content that *do* cross into obscenity under U.S. law?
+If you’re curious about any specific court cases or other countries’ standards, just let me know!
 
 
 💬: OK, so only very weird porn's not covered. 
 
 🤖:[ChatGPT4.1]
 
----
+You’re essentially correct!  
+Mainstream, consensual adult porn is *almost never* legally considered “obscene” in the U.S., even if it’s unusual or controversial.
 
-**Answer:**
+#### What actually gets classified as legally obscene?
+- Porn with **extreme violence**, **humiliation**, or material catering to particularly graphic or depraved interests, **and** with absolutely zero artistic, literary, political, or scientific value, might cross the line—but that is rare and hard to prove in court.
+- **Child pornography, non-consensual content, or sexual depictions of animals (“bestiality”)** are always illegal—these don’t fall under obscenity law but are banned under separate statutes.
 
-That's right—**most “ordinary” or even “kinky” adult porn between consenting adults is legal and protected free speech in the U.S.** Only the most **extreme, violent, abusive, or exploitative** material—what you might call “very weird” in a legal sense—risks being prosecuted as “obscene.”
+#### Most “weird” or extreme adult porn:
+- Still isn’t usually prosecuted unless it deals with one of the always-illegal categories above.
+- Offensiveness alone is *not* enough; it has to be judged truly exceptional in depravity or lack of any redeeming value, which rarely happens today.
 
-> **Examples of content that can be prosecuted as obscene:**  
-> - Involving any actors under 18 (child porn—strictly illegal)
-> - Non-consensual sex or sexual violence  
-> - Extreme degradation, bestiality, or real-life harm  
-> - Material considered so offensive that no reasonable person could find artistic/scientific merit
-
-**In summary:**  
-- Ordinary and alternative adult porn is usually legal.
-- Truly extreme, illegal, or abusive acts cross the “obscenity” line.
-- The boundary can vary by place and over time as social standards shift.
-
-If you want more examples or info on how this is enforced in practice—or differences in other countries—just ask!
+**Summary:**  
+- The legal bar for “obscene” porn is very high; most “weird” but consensual adult porn is not illegal in the U.S.
+- If you’re wondering about specific types or want to know about situations where porn has been prosecuted, let me know!
 
 
 💬: how does OnlyFans handle discovery, does ads network having issues for promoting it? 
 
 🤖:[ChatGPT4.1]
 
-### How Does OnlyFans Handle Content Discovery and Promotion?
+### Discovery on OnlyFans
+- **No public feed or algorithm:** OnlyFans does *not* have a TikTok/Instagram-style discovery feed, "explore" page, or search by interests. There's limited ability for strangers to “find” you on the platform itself.
+- **Intentional privacy:** This is by design, to control underage access and keep the platform from making porn "easily" discoverable, which lowers legal/business risks.
+- **Driven by creator self-promotion:** Creators get subscribers by promoting *themselves* elsewhere—Twitter/X, Reddit, Instagram, TikTok (if allowed), or their own websites, then linking to their OnlyFans page.
+- **Referral features:** Some cross-promotion occurs when creators recommend each other, and OnlyFans runs an affiliate program, but this is modest compared to "discovery" on mainstream social media.
 
-### 📱 On the Platform (Internal Discovery)
-- **There is minimal in-app discovery.**  
-  OnlyFans does **not** have a robust search, explore page, or trending system like Instagram or TikTok.  
-- **Why?**
-  - To *comply with payment processor guidelines* and avoid legal complications.
-  - To limit access to illegal or questionable content (e.g., minor safety, trafficking prevention).
-- **What this means:**  
-  - Users usually must **visit a creator’s page directly** via a specific link.  
-  - Discovery is mostly “off-platform.” You don’t just browse “new creators”—you follow links.
+### Advertising/Ad Networks
+- **Major ad networks (Google, Facebook/Meta, etc.) ban adult service ads:** OnlyFans itself and most creators *cannot run traditional ads* for NSFW content on mainstream ad networks.
+- **Mainstream media is cautious:** Most TV, radio, or online affiliates won't accept explicit OnlyFans ads due to their adult reputation, even if non-adult content is promoted.
+- **Direct and niche promotion:** Some non-mainstream, adult-friendly networks or sites allow OF ads; otherwise, OF and creators rely on content marketing, collabs, and organic reach on less restrictive social platforms (Twitter/X, Reddit, some smaller platforms).
 
-### 🌐 Outside the Platform (Advertising & Promotion)
-- **Most ad networks (Google, Facebook, Instagram, TikTok, Twitter/X) either ban or heavily restrict adult content and adult-related services.**
-  - OnlyFans cannot run paid ads promoting explicit material on mainstream channels.
-  - Even SFW (safe-for-work) accounts or the general OF brand struggle with ad approvals due to reputation.
+---
 
-- **Creators mainly promote themselves via:**
-  - Social media (Twitter, Reddit, Instagram, Snapchat)—using coded or SFW language, direct links, or private chats.
-  - Third-party “link-in-bio” tools (e.g., Linktree, AllMyLinks).
-  - Collaborations and referrals.
-- **OF itself relies on PR, search engine results, and word of mouth, not traditional advertising.**
+**In summary:**  
+- **Discovery is limited and privacy-minded**—most traffic comes from creators’ own outside marketing, not inside OnlyFans.
+- **Mainstream advertising for OnlyFans is blocked/restricted** by nearly all major ad networks due to their policies on adult content, forcing reliance on organic and niche outreach.
 
-### ⚠️ Why This Matters
-- **Harder to go viral internally:** Success relies on having an existing audience or outside promotional hustle.
-- **Ads networks generally “have issues”** with promoting OF—NSFW stigma, compliance risk, and audience controls make paid promotion very difficult.
+If you want more specifics about ways creators promote themselves—or examples of what happens when ad networks reject adult brands—just ask!
 
-#### In short:  
-**OnlyFans discovery is mainly external, through creator self-promotion, because mainstream ad networks and social platforms restrict or ban adult content marketing. On-platform discovery is intentionally limited and private.**
 
-If you want details on specific social media policies for OnlyFans promotion, or examples of how top creators market themselves, let me know!
+💬: ah, that's also why the creators befriend each other if they are in similar trade? I don't take they actually socialize?
+
+🤖:[ChatGPT4.1]
+
+Yes, the lack of mainstream discovery options pushes OnlyFans creators to **collaborate and support each other**—primarily as a business strategy:
+
+- **Cross-promotion is key.** Creators with similar audiences often “shout out” or tag one another in posts on Twitter/X, Reddit, etc. This exposes both to new fans who are likely interested in similar content.
+- **Collabs drive growth.** Sometimes creators team up for joint content (co-shoots, videos, photosets, livestreams). Each one gains followers from the other’s fanbase—a win-win for both.
+- **Mutual support networks develop:** Many creators use dedicated group chats, Discord servers, or subreddits to share tips, security info, and marketing tactics.
+
+Are they “real friends”? Sometimes!
+- **For many creators, the connection is mostly business-focused.** Trust and cooperation are necessary for successful collab content and promo exchanges.
+- **Friendships can develop** from frequent collaboration, as with any job where coworkers become actual friends.
+- **Not all are close:** Just like influencers on other social media, creators sometimes work together mainly for strategic reasons with minimal real-life socializing.
+
+**Summary:**  
+- Most befriending among OnlyFans creators **begins as business collaboration**—a survival tactic given promotion limits. Over time, some creators become real friends, but networking is primarily about mutual growth in a tough marketing environment.
+
+If you want to know more about how creators make these connections (events, online communities, agencies), I can expand!
 
 
 💬:
-
 
